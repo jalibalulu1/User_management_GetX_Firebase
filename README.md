@@ -9,3 +9,5 @@ Packages Used :
 - GetX
 - Get CLI
 - Firebase
+- Firestore
+- Image picker
