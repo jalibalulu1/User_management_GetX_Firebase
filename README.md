@@ -6,6 +6,6 @@ email id. Also the users can upload their image as profile picture.
 The database can store users email and current user can edit the
 profile.
 Packages Used :
-GetX
-Get CLI
-Firebase
+- GetX
+- Get CLI
+- Firebase
